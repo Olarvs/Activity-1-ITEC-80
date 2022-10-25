@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITEC80", "ITEC80\ITEC80.csproj", "{72F26632-E613-4582-9711-ECEB3E00CCCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72F26632-E613-4582-9711-ECEB3E00CCCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F26632-E613-4582-9711-ECEB3E00CCCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F26632-E613-4582-9711-ECEB3E00CCCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F26632-E613-4582-9711-ECEB3E00CCCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5649538-2746-4F65-803E-B9DD2B4A148A}
+	EndGlobalSection
+EndGlobal
